@@ -1,0 +1,78 @@
+body{
+    line-height: 1em;
+}
+
+#wrapper {
+    width: 80%;
+    margin: auto;
+}
+
+header{
+    align-content: center;
+}
+#topbar{
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    vertical-align: middle;
+}
+strong{
+    background-color: #2A2F4E;
+    color: #ffffff;
+    font-family: 'Roboto Slab', serif;
+}
+
+em{
+    text-decoration: none;
+    font-style: normal;
+    font-family: 'Roboto Slab', serif;
+}
+
+.myName{
+    padding: 0;
+    margin: 0;
+    font-size: 2em;
+}
+
+nav{
+    float: right;
+    padding: 0;
+    margin: 0;
+    font-size: 1em;
+}
+
+nav li{
+    display: inline;
+    margin: 25px;
+    font-size: 1.5em;
+    font-family: 'Roboto Slab', serif;
+    padding: 0;
+}
+
+ul{
+    padding: 0;
+}
+
+a{
+    color: #2A2F4E;
+    text-decoration: none;
+}
+
+main{
+    background-color: #515169;
+    color: #ffffff;
+    padding: 1em;
+}
+
+h1{
+    font-family: 'Roboto Slab', serif;
+}
+
+#aboutContent{
+    float: right;
+}
+
+#myImage{
+    float: left;
+}
