@@ -62,7 +62,8 @@ a{
 main{
     background-color: #515169;
     color: #ffffff;
-    padding: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 h1{
@@ -71,8 +72,17 @@ h1{
 
 #aboutContent{
     float: right;
+    background-color: #515169;
+    padding-left: 1%;
+    padding-right: 1em;
+    width: 48%;
+    font-size: 1.25em;
+    line-height: 1.25em;
 }
 
 #myImage{
     float: left;
+    padding-right: 1%;
+    width: 48%;
+    background-color: #515169;
 }
